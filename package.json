@@ -1,5 +1,5 @@
 {
-  "name": "haunted-house",
+  "name": "spooky-house",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -16,6 +16,7 @@
     "haunted-house": "file:",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "spooky-house": "file:",
     "three": "^0.164.1"
   },
   "devDependencies": {
