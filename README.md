@@ -9,4 +9,3 @@
 - **React.**
 - **Three.js:** Lightweight 3D library to create rich, interactive experiences.
 - **@react-three/fiber and @react-three/drei:** Tools to integrate Three.js with React seamlessly.
-# Spooky_House
